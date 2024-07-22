@@ -14,3 +14,9 @@ This is the Starter Repository for all Html, Css, and JavaScript Projects
 > 1. <https://colorhunt.co/>
 > 1. <https://fonts.google.com/>
 > 1. <https://svglogomaker.com/>
+
+## Hosted URL
+
+> 1. <https://microservices-sportsshop.github.io/hcjjs-1-starter/>
+
+![image](https://github.com/user-attachments/assets/bd0d7b15-f916-4a81-8b4b-4b272094ccbf)
