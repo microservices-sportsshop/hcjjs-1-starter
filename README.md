@@ -2,7 +2,7 @@
 
 This is the Starter Repository for all Html, Css, and JavaScript Projects
 
-## Reference(s):
+## Reference(s)
 
 > 1. [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
 > 1. [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
