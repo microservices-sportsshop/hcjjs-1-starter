@@ -19,4 +19,4 @@ This is the Starter Repository for all Html, Css, and JavaScript Projects
 
 > 1. <https://microservices-sportsshop.github.io/hcjjs-1-starter/>
 
-![image](https://github.com/user-attachments/assets/bd0d7b15-f916-4a81-8b4b-4b272094ccbf)
+![First Look](documentation/images/FirstLook.PNG)
